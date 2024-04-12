@@ -1,0 +1,66 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para los títulos h1 */
+h1 {
+    color: #1F73D3; /* Color azul */
+    text-align: center;
+}
+h2 {
+    /*color: #1F73D3; */
+
+    text-align: center;
+}
+
+/* Estilo para los párrafos */
+p {
+    /* color: #1F73D3; */
+    line-height: 1.5;
+}
+
+p1 {
+    color: #1F73D3;
+    line-height: 1.5;
+}
+
+/* Estilo para un enlace */
+a {
+    text-decoration: none;
+    color: #ff6600;
+}
+
+/* Cambiar el color al pasar el mouse sobre un enlace */
+a:hover {
+    color: #ff3300;
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #333; /* Fondo gris oscuro */
+    color: #fff; /* Texto blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Texto centrado */
+    width: 100%; /* Ocupa todo el ancho disponible */
+}
+
+/* Estilo para el título en el encabezado */
+header h1 {
+    font-size: 36px; /* Tamaño de fuente grande */
+    margin: 0; /* Elimina el margen superior e inferior predeterminado */
+}
+
+/* Estilo para la imagen en el encabezado */
+header img {
+    max-width: 100%; /* Ajusta la imagen al ancho del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+.sidebar .sidebar-content .block-container blockquote {
+    color: #ff5733; /* Cambia el color del título a naranja */
+}
+</style>
